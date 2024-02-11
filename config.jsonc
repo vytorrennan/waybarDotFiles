@@ -19,7 +19,7 @@
     "modules-right": [
         "pulseaudio",
         "pulseaudio#microphone",
-	"clock"
+    	"clock"
     ],
 
     "hyprland/window": {
