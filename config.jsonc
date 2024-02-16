@@ -6,6 +6,11 @@
     "passthrough": false,
     "gtk-layer-shell": true,
     "height": 35,
+    "margin": 7,
+    "margin-top": 3,
+    "margin-left": 7,
+    "margin-right": 7,
+    "margin-bottom": 0,
     "modules-left": [
         "custom/launch_wofi",
         "hyprland/workspaces",
