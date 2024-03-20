@@ -20,6 +20,7 @@
         "battery",
         "pulseaudio",
         "pulseaudio#microphone",
+        "backlight",
     	"clock"
     ],
 
@@ -121,4 +122,10 @@
         "tooltip": false,
         "on-click": "2"
     },
+
+    "backlight": {
+	    "device": "intel_backlight",
+	    "format": "{percent}% {icon}",
+	    "format-icons": ["", ""]
+    }
 }
