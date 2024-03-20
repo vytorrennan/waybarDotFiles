@@ -60,6 +60,7 @@ tooltip label{
 #disk,
 #custom-updates,
 #memory,
+#battery,
 #clock,
 #pulseaudio,
 #network,
@@ -69,6 +70,11 @@ tooltip label{
     padding: 0px 10px;
     margin-top: 3px;
     border: 0px;
+}
+
+#battery {
+    border-radius: 10px;
+    margin-right: 10px;
 }
 
 #custom-launch_wofi, #cpu {
